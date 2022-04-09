@@ -1,0 +1,19 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "boshla": " parcel index.html",
+    "yasa": "npx parcel build index.html"
+  },
+  "author": "Jafar",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.21.1",
+    "leaflet": "^1.7.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.4.1",
+    "parsel": "^0.3.0"
+  }
+}
